@@ -21,6 +21,7 @@ StockTV 提供全面的实时和历史股市数据 API，涵盖全球股票、�
 - **官网**：[https://stocktv.top/](https://stocktv.top/)  
 - **API 文档**：[postman api文档](https://documenter.getpostman.com/view/10940044/2sAYHxnPns)  
 - **对接 Demo**：[https://github.com/CryptoRzz](https://github.com/CryptoRzz)
+- **配套交易所**：[https://github.com/CryptoRzz/stock-exchange](https://github.com/CryptoRzz/stock-exchange)
 - **TG 联系方式**：[telegram](https://t.me/CryptoRzz)
 
 ## 优势
